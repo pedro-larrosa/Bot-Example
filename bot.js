@@ -14,4 +14,10 @@ client.on("interactionCreate", async (interaction) => {
     }
 });
 
+client.on("message", async (message) => {
+    if (message.content === "ping") {
+        await message.reply("CABRON");
+    }
+});
+
 client.login(TOKEN);
