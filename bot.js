@@ -9,14 +9,10 @@ client.on("ready", () => {
 client.on("interactionCreate", async (interaction) => {
     if (!interaction.isCommand()) return;
 
-    if (interaction.commandName === "ping") {
+    if (interaction.commandName === "piterbito") {
+        await interaction.reply("EL PASES LO HA HECHO DE NUEVO");
+    } else if (interaction.commandName === "ping") {
         await interaction.reply("Pong!");
-    }
-});
-
-client.on("message", async (message) => {
-    if (message.content === "ping") {
-        await message.reply("CABRON");
     }
 });
 
