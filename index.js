@@ -1,7 +1,15 @@
 const fs = require("fs");
 const { TOKEN, GUILD_ID, CLIENT_ID } = require("./config");
 const { Client, Intents, Collection } = require("discord.js");
-const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
+const client = new Client({
+    intents: [
+        Intents.FLAGS.GUILDS,
+        Intents.FLAGS.GUILD_MESSAGES,
+        Intents.FLAGS.GUILD_VOICE_STATES
+    ]
+});
+let prefix = "!";
+module.exports = prefix;
 
 //Lee los ficheros de los comandos en el directorio /comandos
 client.commands = new Collection();
@@ -28,6 +36,5 @@ for (const file of eventFiles) {
         client.on(event.name, (...args) => event.execute(...args));
     }
 }
-
 // Login to Discord with your client's token
 client.login(TOKEN);
