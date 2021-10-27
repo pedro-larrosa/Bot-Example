@@ -1,5 +1,5 @@
-let prefix = require(__dirname + "/../index.js");
 const randomWords = require("random-spanish-words");
+const prefix = require("..");
 
 module.exports = {
     name: "messageCreate",

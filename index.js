@@ -8,7 +8,7 @@ const client = new Client({
         Intents.FLAGS.GUILD_VOICE_STATES
     ]
 });
-let prefix = "!";
+const prefix = "!";
 module.exports = prefix;
 
 //Lee los ficheros de los comandos en el directorio /comandos
