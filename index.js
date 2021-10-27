@@ -8,33 +8,26 @@ client.commands = new Collection();
 const commandFiles = fs
     .readdirSync("./comandos")
     .filter((file) => file.endsWith(".js"));
+
 for (const file of commandFiles) {
     const command = require(`./comandos/${file}`);
 
     client.commands.set(command.data.name, command);
 }
 
-client.once("ready", () => {
-    console.log("Ready!");
-});
+//Leemos los ficheros de del directorio eventos para generar los eventos
+const eventFiles = fs
+    .readdirSync("./eventos")
+    .filter((file) => file.endsWith(".js"));
 
-client.on("interactionCreate", async (interaction) => {
-    if (!interaction.isCommand()) return;
-
-    const command = client.commands.get(interaction.commandName);
-
-    if (!command) return;
-
-    try {
-        await command.execute(interaction);
-    } catch (error) {
-        console.error(error);
-        await interaction.reply({
-            content: `Se ha producido un error ejecutando el comando${interaction.commandName}!`,
-            ephemeral: true
-        });
+for (const file of eventFiles) {
+    const event = require(`./eventos/${file}`);
+    if (event.once) {
+        client.once(event.name, (...args) => event.execute(...args));
+    } else {
+        client.on(event.name, (...args) => event.execute(...args));
     }
-});
+}
 
 // Login to Discord with your client's token
 client.login(TOKEN);
