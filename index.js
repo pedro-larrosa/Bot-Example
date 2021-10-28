@@ -1,6 +1,7 @@
 const fs = require("fs");
 const { TOKEN, GUILD_ID, CLIENT_ID } = require("./config");
 const { Client, Intents, Collection } = require("discord.js");
+const geolib = require("geolib");
 const client = new Client({
     intents: [
         Intents.FLAGS.GUILDS,

@@ -1,0 +1,1792 @@
+{
+    "A Coruña": { "latitud": "43° 20' N", "longitud": "8° 25' W" },
+
+    "A Estrada": {
+        "latitud": "42° 43' N",
+        "longitud": "8° 27' W"
+    },
+
+    "Un Fonagrads": {
+        "latitud": "43° 08' N",
+        "longitud": "7° 27' W"
+    },
+    "Adaja": { "latitud": "41° 32' N", "longitud": "04° 52' W" },
+    "Adra": { "latitud": "36° 43' N", "longitud": "03° 03' W" },
+    "Aguilas": { "latitud": "37° 23' N", "longitud": "01° 35' W" },
+
+    "Aire, I. De I ‘,": {
+        "latitud": "39° 48' N",
+        "longitud": "04° 16' E"
+    },
+
+    "Ajo, C. de": {
+        "latitud": "43° 31' N",
+        "longitud": "03° 35' W"
+    },
+    "Alaior": { "latitud": "39° 57' N", "longitud": "04° 08' E" },
+
+    "Albacete": {
+        "latitud": "39° 00' N",
+        "longitud": "01° 50' W"
+    },
+    "Alberche": { "latitud": "39° 58' N", "longitud": "4° 46' W" },
+
+    "Alcalá de Henares": {
+        "latitud": "40° 28' N",
+        "longitud": "03° 22' W"
+    },
+
+    "Alcalá Ia real": {
+        "latitud": "37° 27' N",
+        "longitud": "03° 57' W"
+    },
+    "Alcañiz": { "latitud": "41° 02' N", "longitud": "00° 08' W" },
+
+    "Alcántara, Embalse de": {
+        "latitud": "39° 44' N",
+        "longitud": "06° 50' W"
+    },
+
+    "Alcantarilla": {
+        "latitud": "37° 59' N",
+        "longitud": "01° 12' W"
+    },
+
+    "Alcaraz, Sierra de": {
+        "latitud": "38° 40' N",
+        "longitud": "02° 20' W"
+    },
+
+    "Alcaudete": {
+        "latitud": "37° 35' N",
+        "longitud": "04° 05' W"
+    },
+
+    "Alcázar de San Juan": {
+        "latitud": "39° 24' N",
+        "longitud": "03° 12' W"
+    },
+
+    "Alcira / Alzira": {
+        "latitud": "39° 09' N",
+        "longitud": "00° 30' W"
+    },
+    "Alcoy": { "latitud": "38° 43' N", "longitud": "00° 30' W" },
+    "Alcudia": { "latitud": "39° 51' N", "longitud": "03° 07' E" },
+
+    "Alcudia, B. d ‘,": {
+        "latitud": "39° 47' N",
+        "longitud": "03° 15' E"
+    },
+    "Alfabia": { "latitud": "39° 44' N", "longitud": "02° 44' E" },
+    "Algaida": { "latitud": "39° 33' N", "longitud": "02° 53' E" },
+
+    "Algeciras": {
+        "latitud": "36° 09' N",
+        "longitud": "05° 28' W"
+    },
+
+    "Algemesi": {
+        "latitud": "39° 11' N",
+        "longitud": "00° 27' W"
+    },
+
+    "Alicante": {
+        "latitud": "38° 23' N",
+        "longitud": "00° 30' W"
+    },
+    "Almaden": { "latitud": "38° 49' N", "longitud": "04° 52' W" },
+    "Almansa": { "latitud": "38° 51' N", "longitud": "01° 05' W" },
+
+    "Almanzor, Pico": {
+        "latitud": "40° 15' N",
+        "longitud": "05° 18' W"
+    },
+
+    "Almanzora": {
+        "latitud": "37° 14' N",
+        "longitud": "01° 46' W"
+    },
+    "Almazan": { "latitud": "41° 30' N", "longitud": "02° 30' W" },
+
+    "Almendralejo": {
+        "latitud": "38° 41' N",
+        "longitud": "06° 26' W"
+    },
+    "Almería": { "latitud": "36° 52' N", "longitud": "02° 27' W" },
+    "Alsasua": { "latitud": "42° 54' N", "longitud": "02° 10' W" },
+    "Altea": { "latitud": "38° 38' N", "longitud": "00° 02' W" },
+    "Alzira": { "latitud": "39° 09' N", "longitud": "00° 30' W" },
+
+    "Andalucía": {
+        "latitud": "37° 35' N",
+        "longitud": "05° 00' W"
+    },
+
+    "Andalucía / Andalucía": {
+        "latitud": "37° 35' N",
+        "longitud": "05° 00' W"
+    },
+    "Andratx": { "latitud": "39° 39' N", "longitud": "02° 25' E" },
+    "Andujar": { "latitud": "38° 03' N", "longitud": "04° 05' W" },
+
+    "Aneto, Pico de": {
+        "latitud": "42° 37' N",
+        "longitud": "00° 40' E"
+    },
+
+    "Antequera": {
+        "latitud": "37° 05' N",
+        "longitud": "04° 33' W"
+    },
+    "Aracena": { "latitud": "37° 53' N", "longitud": "06° 38' W" },
+    "Aragón": { "latitud": "41° 25' N", "longitud": "00° 40' W" },
+
+    "Aranda de Duero": {
+        "latitud": "41° 39' N",
+        "longitud": "03° 42' W"
+    },
+
+    "Aranjuez": {
+        "latitud": "40° 01' N",
+        "longitud": "03° 40' W"
+    },
+
+    "Arcos de la Frontera": {
+        "latitud": "36° 45' N",
+        "longitud": "05° 49' W"
+    },
+    "Arévalo": { "latitud": "41° 03' N", "longitud": "04° 43' W" },
+    "Arganda": { "latitud": "40° 19' N", "longitud": "03° 26' W" },
+
+    "Arlanzón": {
+        "latitud": "42° 03' N",
+        "longitud": "04° 17' W"
+    },
+    "Arta": { "latitud": "39° 41' N", "longitud": "03° 21' E" },
+
+    "Artrutx, C. de": {
+        "latitud": "39° 55' N",
+        "longitud": "03° 49' E"
+    },
+    "Astorga": { "latitud": "42° 29' N", "longitud": "06° 08' W" },
+
+    "Asturias": {
+        "latitud": "43° 15' N",
+        "longitud": "06° 00' W"
+    },
+
+    "Aubarca, C. d ‘": {
+        "latitud": "39° 04' N",
+        "longitud": "01° 22' E"
+    },
+    "Ávila": { "latitud": "40° 39' N", "longitud": "04° 43' W" },
+    "Avilés": { "latitud": "43° 35' N", "longitud": "05° 57' W" },
+
+    "Ayamonte": {
+        "latitud": "37° 12' N",
+        "longitud": "07° 24' W"
+    },
+    "Azuaga": { "latitud": "38° 16' N", "longitud": "05° 39' W" },
+    "Badajoz": { "latitud": "38° 50' N", "longitud": "06° 59' W" },
+
+    "Badalona": {
+        "latitud": "41° 26' N",
+        "longitud": "02° 15' E"
+    },
+    "Baena": { "latitud": "37° 37' N", "longitud": "04° 20' W" },
+    "Baeza": { "latitud": "37° 57' N", "longitud": "03° 25' W" },
+
+    "Balaguer": {
+        "latitud": "41° 50' N",
+        "longitud": "00° 50' E"
+    },
+
+    "Baleares, Es.,": {
+        "latitud": "39° 30' N",
+        "longitud": "03° 00' E"
+    },
+
+    "Baleares es. / Baleares, Is.,": {
+        "latitud": "39° 30' N",
+        "longitud": "03° 00' E"
+    },
+
+    "Banyalbufar": {
+        "latitud": "39° 42' N",
+        "longitud": "02° 31' E"
+    },
+
+    "Barakaldo": {
+        "latitud": "43° 18' N",
+        "longitud": "02° 59' W"
+    },
+
+    "Barbaria, C. de": {
+        "latitud": "38° 39' N",
+        "longitud": "01° 24' E"
+    },
+
+    "Barbastro": {
+        "latitud": "42° 02' N",
+        "longitud": "00° 05' E"
+    },
+
+    "Barcelona": {
+        "latitud": "41° 21' N",
+        "longitud": "02° 10' E"
+    },
+
+    "Provincias Vascongadas / País Vasco": {
+        "latitud": "42° 50' N",
+        "longitud": "02° 45' W"
+    },
+    "Baza": { "latitud": "37° 30' N", "longitud": "02° 47' W" },
+    "Bejar": { "latitud": "40° 23' N", "longitud": "05° 46' W" },
+
+    "Benavente": {
+        "latitud": "42° 02' N",
+        "longitud": "05° 43' W"
+    },
+
+    "Benidorm": {
+        "latitud": "38° 33' N",
+        "longitud": "00° 09' W"
+    },
+    "Berga": { "latitud": "42° 06' N", "longitud": "01° 48' E" },
+    "Berja": { "latitud": "36° 50' N", "longitud": "02° 56' W" },
+
+    "Betanzos": {
+        "latitud": "43° 15' N",
+        "longitud": "08° 12' W"
+    },
+    "Bibao": { "latitud": "43° 16' N", "longitud": "02° 56' W" },
+
+    "Bibao / Bibao": {
+        "latitud": "43° 16' N",
+        "longitud": "02° 56' W"
+    },
+
+    "Binisatua": {
+        "latitud": "39° 50' N",
+        "longitud": "04° 11' E"
+    },
+
+    "Blanc, C.": {
+        "latitud": "39° 21' N",
+        "longitud": "02° 51' E"
+    },
+    "Blanes": { "latitud": "41° 40' N", "longitud": "02° 48' E" },
+    "Burgos": { "latitud": "42° 21' N", "longitud": "03° 41' W" },
+
+    "Caballeria, C. de": {
+        "latitud": "40° 05' N",
+        "longitud": "04° 05' E"
+    },
+    "Cabra": { "latitud": "37° 30' N", "longitud": "04° 28' W" },
+
+    "Caberera": {
+        "latitud": "39° 08' N",
+        "longitud": "02° 57' E"
+    },
+    "Cabriel": { "latitud": "39° 14' N", "longitud": "01° 03' W" },
+    "Cáceres": { "latitud": "39° 26' N", "longitud": "06° 23' W" },
+    "Cádiz": { "latitud": "36° 30' N", "longitud": "06° 20' W" },
+
+    "Cádiz, G. de": {
+        "latitud": "36° 40' N",
+        "longitud": "07° 00' W"
+    },
+
+    "Cala d' Or": {
+        "latitud": "39° 23' N",
+        "longitud": "03° 14' E"
+    },
+
+    "Cala en Porter": {
+        "latitud": "39° 52' N",
+        "longitud": "04° 08' E"
+    },
+
+    "Cala Figuera, C. de": {
+        "latitud": "39° 27' N",
+        "longitud": "02° 31' E"
+    },
+
+    "Cala Forcat": {
+        "latitud": "40° 00' N",
+        "longitud": "03° 47' E"
+    },
+
+    "Cala Major": {
+        "latitud": "39° 33' N",
+        "longitud": "02° 37' E"
+    },
+
+    "Cala Mezquida / Sa Mesquida": {
+        "latitud": "39° 55' N",
+        "longitud": "04° 16' E"
+    },
+
+    "Cala Millor": {
+        "latitud": "39° 35' N",
+        "longitud": "03° 22' E"
+    },
+
+    "Cala Ratjada": {
+        "latitud": "39° 43' N",
+        "longitud": "03° 27' E"
+    },
+
+    "Cala Galdana": {
+        "latitud": "39° 56' N",
+        "longitud": "03° 58' E"
+    },
+
+    "Calahorra": {
+        "latitud": "42° 18' N",
+        "longitud": "01° 59' W"
+    },
+
+    "Calamocha": {
+        "latitud": "40° 50' N",
+        "longitud": "01° 17' W"
+    },
+
+    "Calatayud": {
+        "latitud": "41° 20' N",
+        "longitud": "01° 40' W"
+    },
+    "Calvia": { "latitud": "39° 34' E", "longitud": "02° 31' E" },
+
+    "Campos del Puerto": {
+        "latitud": "39° 26' N",
+        "longitud": "03° 01' E"
+    },
+
+    "puede Clavo": {
+        "latitud": "38° 57' N",
+        "longitud": "01° 27' E"
+    },
+
+    "Can Creu": {
+        "latitud": "38° 58' N",
+        "longitud": "01° 28' E"
+    },
+
+    "Cangas de Narcea": {
+        "latitud": "43° 10' N",
+        "longitud": "06° 32' W"
+    },
+
+    "Cantabria": {
+        "latitud": "43° 10' N",
+        "longitud": "04° 00' W"
+    },
+
+    "Cantábrico Mts. / Cantábrica Cordillera": {
+        "latitud": "43° 00' N",
+        "longitud": "05° 10' W"
+    },
+
+    "Cantábrica, Cordillera": {
+        "latitud": "43° 00' N",
+        "longitud": "05° 10' W"
+    },
+
+    "Caravaca / Caravaca de la Cruz": {
+        "latitud": "38° 08' N",
+        "longitud": "01° 52' W"
+    },
+
+    "Caravaca de la Cruz": {
+        "latitud": "38° 08' N",
+        "longitud": "01° 52' W"
+    },
+
+    "Carballo": {
+        "latitud": "43° 13' N",
+        "longitud": "08° 41' W"
+    },
+    "Carmona": { "latitud": "37° 28' N", "longitud": "05° 42' W" },
+
+    "Cartagena": {
+        "latitud": "37° 38' N",
+        "longitud": "00° 59' W"
+    },
+    "Caspe": { "latitud": "41° 14' N", "longitud": "00° 01' W" },
+
+    "Castellón de la Plana": {
+        "latitud": "39° 58' N",
+        "longitud": "00° 03' W"
+    },
+
+    "Castilla-La Mancha": {
+        "latitud": "39° 30' N",
+        "longitud": "03° 30' W"
+    },
+
+    "Castilla y León": {
+        "latitud": "42° 00' N",
+        "longitud": "05° 00' W"
+    },
+
+    "Castuera": {
+        "latitud": "38° 43' N",
+        "longitud": "05° 37' W"
+    },
+
+    "Catalunya / Cataluna": {
+        "latitud": "41° 40' N",
+        "longitud": "01° 15' E"
+    },
+
+    "Cataluna": {
+        "latitud": "41° 40' N",
+        "longitud": "01° 15' E"
+    },
+    "Cervera": { "latitud": "41° 40' N", "longitud": "01° 16' E" },
+
+    "Chantada": {
+        "latitud": "42° 36' N",
+        "longitud": "07° 46' W"
+    },
+
+    "Chiclana de la Frontera": {
+        "latitud": "36° 26' N",
+        "longitud": "06° 09' W"
+    },
+    "Cieza": { "latitud": "38° 17' N", "longitud": "01° 23' W" },
+
+    "Cijara, Embalse de": {
+        "latitud": "39° 18' N",
+        "longitud": "04° 52' W"
+    },
+    "Cinca": { "latitud": "41° 26' N", "longitud": "00° 21' E" },
+
+    "Ciudad Real": {
+        "latitud": "38° 59' N",
+        "longitud": "03° 55' W"
+    },
+
+    "Ciudad Rodrigo": {
+        "latitud": "40° 35' N",
+        "longitud": "06° 22' W"
+    },
+
+    "Ciudadela": {
+        "latitud": "40° 00' N",
+        "longitud": "03° 50' E"
+    },
+    "moneda": { "latitud": "36° 40' N", "longitud": "04° 48' W" },
+
+    "Colom, I, de' en": {
+        "latitud": "39° 58' N",
+        "longitud": "04° 16' E"
+    },
+
+    "Colonia de Sant Jordi": {
+        "latitud": "39° 19' N",
+        "longitud": "02° 59' E"
+    },
+
+    "Columbrates, Es.": {
+        "latitud": "39° 50' N",
+        "longitud": "00° 50' E"
+    },
+
+    "Conejera, I. / Conills, I.des": {
+        "latitud": "39° 11' N",
+        "longitud": "02° 58' E"
+    },
+
+    "Conills, I.des": {
+        "latitud": "39° 11' N",
+        "longitud": "02° 58' E"
+    },
+
+    "Corcubión": {
+        "latitud": "42° 56' N",
+        "longitud": "09° 12' W"
+    },
+    "Córdoba": { "latitud": "37° 50' N", "longitud": "04° 50' W" },
+    "Coria": { "latitud": "39° 58' N", "longitud": "06° 33' W" },
+
+    "La Coruña / A Coruña": {
+        "latitud": "43° 20' N",
+        "longitud": "08° 25' W"
+    },
+
+    "Costa Blanca": {
+        "latitud": "38° 25' N",
+        "longitud": "00° 10' W"
+    },
+
+    "Costa Brava": {
+        "latitud": "41° 30' N",
+        "longitud": "03° 00' E"
+    },
+
+    "Costa del Sol": {
+        "latitud": "36° 30' N",
+        "longitud": "04° 30' W"
+    },
+
+    "Costa Dorada": {
+        "latitud": "41° 12' N",
+        "longitud": "01° 15' E"
+    },
+
+    "Creus, C. de": {
+        "latitud": "42° 20' N",
+        "longitud": "03° 19' E"
+    },
+    "Cuenca": { "latitud": "40° 05' N", "longitud": "02° 10' W" },
+
+    "Cuenca, Serranía de": {
+        "latitud": "39° 55' N",
+        "longitud": "01° 50' W"
+    },
+
+    "Cuevas del Almanzora": {
+        "latitud": "37° 18' N",
+        "longitud": "01° 58' W"
+    },
+    "Cullera": { "latitud": "39° 09' N", "longitud": "00° 17' W" },
+
+    "Cunillera, I. / Sa Conillera": {
+        "latitud": "38° 59' N",
+        "longitud": "01° 13' E"
+    },
+    "Damiel": { "latitud": "39° 04' N", "longitud": "03° 37' W" },
+
+    "Dartuch, C. / Artrutx, C. de": {
+        "latitud": "39° 55' N",
+        "longitud": "03° 49' E"
+    },
+
+    "Demanda, Sierra de la": {
+        "latitud": "42° 15' N",
+        "longitud": "03° 00' W"
+    },
+    "Denia": { "latitud": "38° 49' N", "longitud": "00° 08' E" },
+
+    "Despeñaperros, Paso": {
+        "latitud": "38° 24' N",
+        "longitud": "03° 30' W"
+    },
+
+    "Donostia / Donostia-san Sebastian": {
+        "latitud": "43° 17' N",
+        "longitud": "01° 58' W"
+    },
+
+    "Donostia-san Sebastian": {
+        "latitud": "43° 17' N",
+        "longitud": "01° 58' W"
+    },
+
+    "Dos Hermanas": {
+        "latitud": "37° 16' N",
+        "longitud": "05° 55' W"
+    },
+    "Ebro": { "latitud": "40° 43' N", "longitud": "00° 54' E" },
+    "Ecija": { "latitud": "37° 30' N", "longitud": "05° 10' W" },
+    "Eibar": { "latitud": "43° 11' N", "longitud": "02° 28' W" },
+    "Eivissa": { "latitud": "38° 54' N", "longitud": "01° 26' E" },
+
+    "El Escorial": {
+        "latitud": "40° 35' N",
+        "longitud": "04° 07' W"
+    },
+
+    "El Ferrol / Ferrol": {
+        "latitud": "43° 29' N",
+        "longitud": "08° 15' W"
+    },
+
+    "El Maestrazgo": {
+        "latitud": "40° 30' N",
+        "longitud": "00° 25' W"
+    },
+
+    "El Prat de Llobregat": {
+        "latitud": "41° 18' N",
+        "longitud": "02° 03' E"
+    },
+
+    "El Puerto de Santa María": {
+        "latitud": "36° 36' N",
+        "longitud": "06° 13' W"
+    },
+    "Elche": { "latitud": "38° 15' N", "longitud": "00° 42' W" },
+    "Elda": { "latitud": "38° 29' N", "longitud": "00° 47' W" },
+
+    "Elx / Elche": {
+        "latitud": "38° 15' N",
+        "longitud": "00° 42' W"
+    },
+
+    "Ensiola, Pta. De n ‘,": {
+        "latitud": "39° 07' N",
+        "longitud": "02° 55' E"
+    },
+    "Eresma": { "latitud": "41° 26' N", "longitud": "04° 45' W" },
+    "Es Calo": { "latitud": "38° 40' N", "longitud": "01° 30' E" },
+
+    "Es Cannar": {
+        "latitud": "39° 02' N",
+        "longitud": "01° 36' E"
+    },
+
+    "Es Mercadal": {
+        "latitud": "39° 59' N",
+        "longitud": "04° 05' E"
+    },
+
+    "Es Migjorn Gran": {
+        "latitud": "39° 57' N",
+        "longitud": "04° 03' E"
+    },
+
+    "Es Vedra": {
+        "latitud": "38° 52' N",
+        "longitud": "01° 12' E"
+    },
+    "Esla": { "latitud": "41° 29' N", "longitud": "06° 03' W" },
+
+    "Estellencs": {
+        "latitud": "39° 39' N",
+        "longitud": "02° 29' E"
+    },
+
+    "Europa, Picos de": {
+        "latitud": "43° 10' N",
+        "longitud": "04° 49' W"
+    },
+
+    "Extremadura": {
+        "latitud": "39° 30' N",
+        "longitud": "06° 05' W"
+    },
+
+    "Falco, C. des": {
+        "latitud": "38° 50' N",
+        "longitud": "01° 23' E"
+    },
+
+    "Farruch, C. / Ferrutx, C.": {
+        "latitud": "39° 47' N",
+        "longitud": "03° 21' E"
+    },
+
+    "Favaritx, C. de": {
+        "latitud": "40° 00' N",
+        "longitud": "04° 15' E"
+    },
+
+    "Felanitx": {
+        "latitud": "39° 28' N",
+        "longitud": "03° 09' E"
+    },
+
+    "Ferreries": {
+        "latitud": "39° 59' N",
+        "longitud": "04° 01' E"
+    },
+    "Ferrol": { "latitud": "43° 29' N", "longitud": "08° 15' W" },
+
+    "Ferrutx, C.": {
+        "latitud": "39° 47' N",
+        "longitud": "03° 21' E"
+    },
+
+    "Figueres": {
+        "latitud": "42° 18' N",
+        "longitud": "02° 58' E"
+    },
+
+    "Finisterre, C. / Fisterra, C.": {
+        "latitud": "42° 50' N",
+        "longitud": "09° 19' W"
+    },
+
+    "Fisterra, C.": {
+        "latitud": "42° 50' N",
+        "longitud": "09° 19' W"
+    },
+
+    "Fonsagrada / A Fonsagrada": {
+        "latitud": "43° 08' N",
+        "longitud": "07° 04' W"
+    },
+
+    "Fomentera": {
+        "latitud": "38° 43' N",
+        "longitud": "01° 27' E"
+    },
+
+    "Formentor, C. de": {
+        "latitud": "39° 58' N",
+        "longitud": "03° 13' E"
+    },
+
+    "Fornells": {
+        "latitud": "40° 03' N",
+        "longitud": "04° 07' E"
+    },
+
+    "Fregenal de la Sierra": {
+        "latitud": "38° 10' N",
+        "longitud": "06° 39' W"
+    },
+
+    "Fuengirola": {
+        "latitud": "36° 32' N",
+        "longitud": "04° 41' W"
+    },
+
+    "Fuentes de Oñoro": {
+        "latitud": "40° 33' N",
+        "longitud": "06° 52' W"
+    },
+    "Furnas": { "latitud": "39° 03' N", "longitud": "01° 32' E" },
+    "Galicia": { "latitud": "42° 43' N", "longitud": "07° 45' W" },
+    "Gallego": { "latitud": "41° 39' N", "longitud": "00° 51' W" },
+    "Gandia": { "latitud": "38° 58' N", "longitud": "00° 09' W" },
+
+    "Geastiz / Vitoria-Gasteiz": {
+        "latitud": "42° 50' N",
+        "longitud": "02° 41' W"
+    },
+
+    "Gata, C. de": {
+        "latitud": "36° 41' N",
+        "longitud": "02° 13' W"
+    },
+
+    "Gata, Sierra de": {
+        "latitud": "40° 20' N",
+        "longitud": "06° 45' W"
+    },
+    "Genil": { "latitud": "37° 42' N", "longitud": "05° 19' W" },
+
+    "Gernika-Lumo": {
+        "latitud": "43° 19' N",
+        "longitud": "02° 40' W"
+    },
+
+    "Gerona / Girona": {
+        "latitud": "41° 58' N",
+        "longitud": "02° 46' E"
+    },
+    "Getafe": { "latitud": "40° 18' N", "longitud": "03° 44' W" },
+    "Getxo": { "latitud": "43° 21' N", "longitud": "02° 59' W" },
+    "Gijón": { "latitud": "43° 32' N", "longitud": "05° 42' W" },
+    "Girona": { "latitud": "41° 58' N", "longitud": "02° 46' E" },
+    "Grado": { "latitud": "43° 23' N", "longitud": "06° 04' W" },
+    "Granada": { "latitud": "37° 10' N", "longitud": "03° 35' W" },
+
+    "Granollers": {
+        "latitud": "41° 39' N",
+        "longitud": "02° 18' E"
+    },
+
+    "Gredos, Sierra de": {
+        "latitud": "40° 20' N",
+        "longitud": "05° 00' W"
+    },
+
+    "Grossa, Pta.": {
+        "latitud": "39° 06' N",
+        "longitud": "01° 36' E"
+    },
+
+    "Guadalajara": {
+        "latitud": "40° 37' N",
+        "longitud": "03° 12' W"
+    },
+
+    "Guadalete": {
+        "latitud": "36° 35' N",
+        "longitud": "06° 13' W"
+    },
+
+    "Guadalquivir": {
+        "latitud": "36° 47' N",
+        "longitud": "06° 22' W"
+    },
+
+    "Guadalupe, Sierra de": {
+        "latitud": "39° 28' N",
+        "longitud": "05° 30' W"
+    },
+
+    "Guadarrama, Sierra de": {
+        "latitud": "41° 00' N",
+        "longitud": "04° 00' W"
+    },
+    "Guadix": { "latitud": "37° 18' N", "longitud": "03° 11' W" },
+
+    "Guecho / Getxo": {
+        "latitud": "43° 21' N",
+        "longitud": "02° 59' W"
+    },
+
+    "Guernica / Gernika-Lumo": {
+        "latitud": "43° 19' N",
+        "longitud": "02° 40' W"
+    },
+    "Hellín": { "latitud": "38° 31' N", "longitud": "01° 40' W" },
+    "Henares": { "latitud": "40° 24' N", "longitud": "03° 30' W" },
+
+    "Hinojosa del Duque": {
+        "latitud": "38° 30' N",
+        "longitud": "05° 09' W"
+    },
+    "Huelva": { "latitud": "37° 18' N", "longitud": "06° 57' W" },
+    "Huesca": { "latitud": "42° 08' N", "longitud": "00° 25' W" },
+
+    "Ibiza / Eivissa": {
+        "latitud": "38° 54' N",
+        "longitud": "01° 26' E"
+    },
+
+    "Igualada": {
+        "latitud": "41° 37' N",
+        "longitud": "01° 37' E"
+    },
+    "Illetas": { "latitud": "39° 32' N", "longitud": "02° 25' E" },
+    "inca": { "latitud": "39° 43' N", "longitud": "02° 54' E" },
+    "Irun": { "latitud": "43° 20' N", "longitud": "01° 52' W" },
+
+    "Iruñea / Pamplona": {
+        "latitud": "42° 48' N",
+        "longitud": "01° 38' W"
+    },
+    "Jaca": { "latitud": "42° 35' N", "longitud": "00° 33' W" },
+    "Jaén": { "latitud": "37° 44' N", "longitud": "71° 22' E" },
+    "Jalón": { "latitud": "41° 47' N", "longitud": "01° 04' W" },
+    "Jarama": { "latitud": "40° 24' N", "longitud": "03° 32' W" },
+
+    "Játiva / Xativa": {
+        "latitud": "38° 59' N",
+        "longitud": "00° 32' W"
+    },
+
+    "Jerez de la Frontera": {
+        "latitud": "38° 20' N",
+        "longitud": "06° 45' W"
+    },
+
+    "Jerez de los Caballeros": {
+        "latitud": "31° 52' N",
+        "longitud": "35° 27' E"
+    },
+
+    "Júcar / Xuquer": {
+        "latitud": "39° 05' N",
+        "longitud": "00° 10' W"
+    },
+    "Jumilla": { "latitud": "38° 28' N", "longitud": "01° 19' W" },
+
+    "La Alcarria": {
+        "latitud": "40° 31' N",
+        "longitud": "02° 45' W"
+    },
+
+    "La Canal / Sa Canal": {
+        "latitud": "38° 51' N",
+        "longitud": "01° 23' E"
+    },
+
+    "La Estrada / A Estrada": {
+        "latitud": "42° 43' N",
+        "longitud": "08° 27' W"
+    },
+
+    "La Línea de la Concepción": {
+        "latitud": "36° 15' N",
+        "longitud": "05° 23' W"
+    },
+
+    "La Mancha": {
+        "latitud": "39° 10' N",
+        "longitud": "02° 54' W"
+    },
+
+    "La Palma del Condado": {
+        "latitud": "37° 21' N",
+        "longitud": "06° 38' W"
+    },
+
+    "Ubicaciones": {
+        "latitud": "latitude",
+        "longitud": "longitude"
+    },
+
+    "La Rioja": {
+        "latitud": "42° 20' N",
+        "longitud": "02° 20' W"
+    },
+
+    "La Robla": {
+        "latitud": "42° 50' N",
+        "longitud": "05° 41' W"
+    },
+    "La Roda": { "latitud": "39° 19' N", "longitud": "02° 15' W" },
+
+    "La Sabina / Sa Savina": {
+        "latitud": "38° 44' N",
+        "longitud": "01° 25' W"
+    },
+
+    "La Seu d' Urgell": {
+        "latitud": "42° 22' N",
+        "longitud": "01° 23' E"
+    },
+
+    "La Vall d' Uixó": {
+        "latitud": "39° 49' N",
+        "longitud": "00° 15' W"
+    },
+
+    "L' Albufera": {
+        "latitud": "39° 20' N",
+        "longitud": "00° 27' W"
+    },
+    "Lalin": { "latitud": "42° 40' N", "longitud": "08° 05' W" },
+    "Langreo": { "latitud": "43° 18' N", "longitud": "05° 40' W" },
+    "Lebrija": { "latitud": "36° 53' N", "longitud": "06° 05' W" },
+    "Leganes": { "latitud": "40° 19' N", "longitud": "03° 45' W" },
+    "León": { "latitud": "42° 38' N", "longitud": "05° 34' W" },
+
+    "León, Montes de": {
+        "latitud": "42° 30' N",
+        "longitud": "06° 18' W"
+    },
+
+    "Lérida / Lleida": {
+        "latitud": "41° 37' N",
+        "longitud": "00° 39' E"
+    },
+
+    "L' Hospitalet de Llobgregat": {
+        "latitud": "41° 21' N",
+        "longitud": "02° 06' E"
+    },
+    "Linares": { "latitud": "38° 10' N", "longitud": "03° 40' W" },
+
+    "Liria, Lliria": {
+        "latitud": "39° 37' N",
+        "longitud": "0° 35' W"
+    },
+    "Llanes": { "latitud": "51° 41' N", "longitud": "04° 10' W" },
+
+    "Llebeig C. des": {
+        "latitud": "39° 33' N",
+        "longitud": "02° 18' E"
+    },
+    "Lledia": { "latitud": "71° 37' N", "longitud": "0° 39' E" },
+
+    "Llentrisca, C.": {
+        "latitud": "38° 52' N",
+        "longitud": "01° 15' E"
+    },
+    "Llria": { "latitud": "39° 37 ‘N", "longitud": "0° 35' W" },
+
+    "Llobregat": {
+        "latitud": "41° 19 ‘N",
+        "longitud": "02° 09' E"
+    },
+
+    "Lloret de Mar": {
+        "latitud": "41° 41 ‘N",
+        "longitud": "02° 53' E"
+    },
+    "Logroño": { "latitud": "42° 28' N", "longitud": "02° 27' W" },
+    "Loja": { "latitud": "37° 10' N", "longitud": "04° 10' W" },
+
+    "Lora del Río": {
+        "latitud": "37° 39' N",
+        "longitud": "05° 33' W"
+    },
+    "Lorca": { "latitud": "37° 41' N", "longitud": "01° 42' W" },
+    "Luarca": { "latitud": "43° 32' N", "longitud": "06° 32' W" },
+    "Lucena": { "latitud": "37° 27' N", "longitud": "04° 31' W" },
+    "Lugo": { "latitud": "43° 02' N", "longitud": "07° 35' W" },
+    "Madrid": { "latitud": "40° 25' N", "longitud": "03° 45' W" },
+
+    "Mahón / Maó": {
+        "latitud": "39° 53' N",
+        "longitud": "04° 16' E"
+    },
+
+    "Mallorca / Mallorca": {
+        "latitud": "39° 30' N",
+        "longitud": "03° 0' E"
+    },
+    "Málaga": { "latitud": "36° 43' N", "longitud": "04° 23' W" },
+    "Mallorca": { "latitud": "39° 30' N", "longitud": "03° 0' E" },
+    "Manocor": { "latitud": "39° 34' N", "longitud": "03° 13' E" },
+
+    "Manressa": {
+        "latitud": "41° 48' N",
+        "longitud": "01° 50' E"
+    },
+
+    "Manzanaares": {
+        "latitud": "39° 02' N",
+        "longitud": "03° 22' W"
+    },
+    "Mao": { "latitud": "39° 53' N", "longitud": "04° 16' E" },
+    "Mar Menor": { "latitud": "37° 40M", "longitud": "0° 45' W" },
+
+    "Marbella": {
+        "latitud": "36° 30' N",
+        "longitud": "04° 57' W"
+    },
+
+    "Marchena": {
+        "latitud": "37° 18' N",
+        "longitud": "05° 23' W"
+    },
+    "Marin": { "latitud": "42° 23' N", "longitud": "08° 42' W" },
+    "Martos": { "latitud": "37° 44' N", "longitud": "03° 58' W" },
+
+    "Massanella": {
+        "latitud": "39° 48' N",
+        "longitud": "02° 51' E"
+    },
+    "Mataro": { "latitud": "41° 32' N", "longitud": "02° 29' E" },
+
+    "Mazarrón": {
+        "latitud": "37° 38' N",
+        "longitud": "01° 19' W"
+    },
+
+    "Medina del Campo": {
+        "latitud": "41° 18' N",
+        "longitud": "04° 55' W"
+    },
+
+    "Medina Sidonia": {
+        "latitud": "36° 28' N",
+        "longitud": "05° 57' W"
+    },
+    "Menorca": { "latitud": "40° 0' N", "longitud": "04° 0' E" },
+    "Mérida": { "latitud": "38° 55' N", "longitud": "06° 25' W" },
+    "Mieres": { "latitud": "4° .18' N", "longitud": "05° 48' W" },
+
+    "Minho / Mino": {
+        "latitud": "41° 52' N",
+        "longitud": "08° 40' W"
+    },
+    "Mino": { "latitud": "41° 52' N", "longitud": "08° 40' W" },
+
+    "Menorca / Menorca": {
+        "latitud": "40° 0' N",
+        "longitud": "04° 0' E"
+    },
+
+    "Miranda de Ebro": {
+        "latitud": "42° 41' N",
+        "longitud": "02° 57' W"
+    },
+
+    "Moncayo, Sierra del": {
+        "latitud": "41° 48' N",
+        "longitud": "01° 50' W"
+    },
+
+    "Monforte de Lemos": {
+        "latitud": "42° 31' N",
+        "longitud": "07° 33' W"
+    },
+
+    "Montalbán": {
+        "latitud": "40° 50' N",
+        "longitud": "0° 45' W"
+    },
+
+    "Montilla": {
+        "latitud": "37° 36' N",
+        "longitud": "04° 40' W"
+    },
+    "Montoro": { "latitud": "38° 01' N", "longitud": "04° 27' W" },
+
+    "Montuiri": {
+        "latitud": "39° 34' N",
+        "longitud": "02° 59' E"
+    },
+    "monzon": { "latitud": "41° 52' N", "longitud": "0° 10' E" },
+    "Morella": { "latitud": "40° 35' N", "longitud": "0° 05' W" },
+
+    "Morena Sierra": {
+        "latitud": "38° 20' N",
+        "longitud": "04° 0' W"
+    },
+    "Morey": { "latitud": "39° 44' N", "longitud": "03° 20' E" },
+
+    "Morón de la Frontera": {
+        "latitud": "37° 06' N",
+        "longitud": "05° 28' W"
+    },
+    "Motril": { "latitud": "36° 31' N", "longitud": "03° 37' W" },
+    "Mula": { "latitud": "38° 03' N", "longitud": "01° 33' W" },
+
+    "Mulhacen": {
+        "latitud": "37° 04' N",
+        "longitud": "03° 20' W"
+    },
+    "Murcia": { "latitud": "38° 05' N", "longitud": "01° 10' W" },
+    "Muro": { "latitud": "39° 44' N", "longitud": "03° 03' E" },
+
+    "Nao C. de la": {
+        "latitud": "38° 44' N",
+        "longitud": "0° 14' E"
+    },
+
+    "Nati pesetas": {
+        "latitud": "40° 03' N",
+        "longitud": "03° 50' E"
+    },
+
+    "Navalmoral de la Mata": {
+        "latitud": "39° 52' N",
+        "longitud": "05° 33' W"
+    },
+    "Navarra": { "latitud": "42° 40' N", "longitud": "01° 40' W" },
+
+    "Nueva Castilla / Castilla-La Macha": {
+        "latitud": "39° 30' N",
+        "longitud": "03° 30' W"
+    },
+    "Ocaña": { "latitud": "39° 55' N", "longitud": "03° 30' W" },
+
+    "Castilla la Vieja / Castilla Y Leon": {
+        "latitud": "42° 0' N",
+        "longitud": "05° 0' W"
+    },
+
+    "Okivenza": {
+        "latitud": "38° 41' N",
+        "longitud": "07° 09' W"
+    },
+    "Olot": { "latitud": "42° 11' N", "longitud": "02° 30' E" },
+    "Onda": { "latitud": "3955' N", "longitud": "0° 17' W" },
+
+    "Orense / Oursense": {
+        "latitud": "42° 19' N",
+        "longitud": "07° 55' W"
+    },
+    "Oragaz": { "latitud": "39° 39' N", "longitud": "03° 53' W" },
+    "Orihuela": { "latitud": "38° 07' N", "longitud": "0° 55' W" },
+
+    "Ortegal C.": {
+        "latitud": "43° 43' N",
+        "longitud": "07° 52' W"
+    },
+
+    "Ortigueira": {
+        "latitud": "43° 40' N",
+        "longitud": "07° 50' W"
+    },
+    "Osuna": { "latitud": "37° 14' N", "longitud": "05° 08' W" },
+    "Ourense": { "latitud": "42° 19' N", "longitud": "07° 55' W" },
+    "Oviedo": { "latitud": "43° 25' N", "longitud": "05° 50' W" },
+
+    "Pais Vasco": {
+        "latitud": "42° 50' N",
+        "longitud": "02° 45' W"
+    },
+
+    "Puerto de Pajares": {
+        "latitud": "42° 58' N",
+        "longitud": "05° 46' W"
+    },
+
+    "Palencia": {
+        "latitud": "42° 01' N",
+        "longitud": "04° 34' W"
+    },
+
+    "Palma B. de.": {
+        "latitud": "39° 30' N",
+        "longitud": "02° 39' E"
+    },
+
+    "Palma de Mallorca": {
+        "latitud": "39° 35' N",
+        "longitud": "02° 39' E"
+    },
+
+    "Palos C. de": {
+        "latitud": "37° 38' N",
+        "longitud": "0° 40' W"
+    },
+
+    "Pamplona": {
+        "latitud": "42° 48' N",
+        "longitud": "01° 38' W"
+    },
+    "Parla": { "latitud": "40° 14' N", "longitud": "03° 46' W" },
+
+    "Pas de pesetas. des": {
+        "latitud": "38° 46' N",
+        "longitud": "01° 26' E"
+    },
+
+    "Peñarroya-Pueblonuevo": {
+        "latitud": "38° 19' N",
+        "longitud": "05° 16' W"
+    },
+
+    "Penas C. de": {
+        "latitud": "43° 42' N",
+        "longitud": "05° 52' W"
+    },
+
+    "Perdido Mte": {
+        "latitud": "42° 40' N",
+        "longitud": "0° 5' E"
+    },
+
+    "Perdu monte / Perdido Mte": {
+        "latitud": "42° 40' N",
+        "longitud": "0° 05' E"
+    },
+    "Petra": { "latitud": "39° 37' N", "longitud": "03° 06' E" },
+
+    "Pisuerga": {
+        "latitud": "41° 33' N",
+        "longitud": "04° 52' W"
+    },
+
+    "Plasencia": {
+        "latitud": "40° 03' N",
+        "longitud": "06° 08' W"
+    },
+
+    "Pollença": {
+        "latitud": "39° 54' N",
+        "longitud": "03° 01' E"
+    },
+
+    "B. de Pollenca": {
+        "latitud": "39° 53' N",
+        "longitud": "03° 08' E"
+    },
+
+    "Ponferrada": {
+        "latitud": "42° 32' N",
+        "longitud": "06° 35' W"
+    },
+
+    "Pontevedra": {
+        "latitud": "42° 26' N",
+        "longitud": "08° 40' W"
+    },
+
+    "Porreres": {
+        "latitud": "39° 31' N",
+        "longitud": "03° 02' E"
+    },
+
+    "Port d' Alcudia": {
+        "latitud": "39° 50' N",
+        "longitud": "03° 07' E"
+    },
+
+    "Port d' Andratx": {
+        "latitud": "39° 32' N",
+        "longitud": "02° 23' E"
+    },
+
+    "Port de Pollenca": {
+        "latitud": "39° 48' N",
+        "longitud": "02° 42' E"
+    },
+
+    "Port de Sóller": {
+        "latitud": "39° 48' N",
+        "longitud": "02° 42' E"
+    },
+    "Portbou": { "latitud": "42° 25' N", "longitud": "03° 09' E" },
+
+    "Porto Cirsto": {
+        "latitud": "39° 33' N",
+        "longitud": "03° 20' E"
+    },
+
+    "Porto Petro": {
+        "latitud": "39° 22' N",
+        "longitud": "03° 13' E"
+    },
+
+    "Pozoblanco": {
+        "latitud": "38° 23' N",
+        "longitud": "04° 51' W"
+    },
+    "Pravia": { "latitud": "43° 30' N", "longitud": "06° 12' W" },
+
+    "Puente-Genil": {
+        "latitud": "37° 22' N",
+        "longitud": "04° 47' W"
+    },
+
+    "Puerto de Alcudia / Portd' Alcudia": {
+        "latitud": "39° 50' N",
+        "longitud": "03° 07' E"
+    },
+
+    "Puerto de Cabrera": {
+        "latitud": "39° 08' N",
+        "longitud": "02° 56' E"
+    },
+
+    "Puerto de Soller / Port de Sóller": {
+        "latitud": "39° 48' N",
+        "longitud": "02° 42' E"
+    },
+
+    "Puerto Pollensa / Port de Pollenca": {
+        "latitud": "39° 54' N",
+        "longitud": "03° 04' E"
+    },
+
+    "Puertollano": {
+        "latitud": "38° 43' N",
+        "longitud": "04° 07' W"
+    },
+
+    "Puig Major": {
+        "latitud": "39° 48' N",
+        "longitud": "02° 47' E"
+    },
+
+    "Puigcerda": {
+        "latitud": "42° 24' N",
+        "longitud": "01° 50' E"
+    },
+
+    "Puigpunyent": {
+        "latitud": "39° 38' N",
+        "longitud": "02° 32' E"
+    },
+
+    "Punta Prima": {
+        "latitud": "39° 48' N",
+        "longitud": "04° 16' E"
+    },
+
+    "Quintanar de la Orden": {
+        "latitud": "39° 36' N",
+        "longitud": "03° 05' W"
+    },
+
+    "Redondela": {
+        "latitud": "42° 15' N",
+        "longitud": "08° 38' W"
+    },
+    "Reinosa": { "latitud": "43° 02' N", "longitud": "04° 15' W" },
+
+    "Rentería": {
+        "latitud": "43° 19' N",
+        "longitud": "01° 54' W"
+    },
+    "Requena": { "latitud": "39° 30' N", "longitud": "01° 04' W" },
+    "Reus": { "latitud": "41° 10' N", "longitud": "01° 05' E" },
+    "Ribadeo": { "latitud": "43° 35' N", "longitud": "07° 05' W" },
+    "Ronda": { "latitud": "36° 46' N", "longitud": "5° 12' W" },
+
+    "Roquetas de Mar": {
+        "latitud": "36° 46' N",
+        "longitud": "2° 36' W"
+    },
+
+    "Rosas G. de": {
+        "latitud": "42° 10' N",
+        "longitud": "3° 15' E"
+    },
+    "Sa Canal": { "latitud": "38° 51' N", "longitud": "1° 23' E" },
+
+    "Sa Conillera": {
+        "latitud": "38° 59' N",
+        "longitud": "1° 13' E"
+    },
+
+    "Sa Dragonera": {
+        "latitud": "39° 55' N",
+        "longitud": "2° 19' E"
+    },
+
+    "Sa Mesquida": {
+        "latitud": "39° 55' N",
+        "longitud": "4° 16' E"
+    },
+
+    "Sa Savina": {
+        "latitud": "38° 44' N",
+        "longitud": "1° 25' E"
+    },
+    "Sahagún": { "latitud": "42° 18' N", "longitud": "5° 2' W" },
+
+    "C. de ses Salines": {
+        "latitud": "39° 16' N",
+        "longitud": "3° 4' E"
+    },
+
+    "Salina C. de ses,": {
+        "latitud": "39° 16' N",
+        "longitud": "3° 4' E"
+    },
+
+    "San Carlos / Sant Carles": {
+        "latitud": "39° 3' N",
+        "longitud": "1° 34' E"
+    },
+
+    "San Juan Bautista / Sant Joan Baptista": {
+        "latitud": "39° 5' N",
+        "longitud": "1° 31' E"
+    },
+
+    "San Mateo / Sant Mateu": {
+        "latitud": "39° 3' N",
+        "longitud": "1° 23' E"
+    },
+
+    "San Miguel / Sant Miguel": {
+        "latitud": "39° 3' N",
+        "longitud": "1° 26' E"
+    },
+
+    "San Roque": {
+        "latitud": "36° 17' N",
+        "longitud": "5° 21' W"
+    },
+
+    "San Salvador": {
+        "latitud": "39° 27' N",
+        "longitud": "3° 11' E"
+    },
+
+    "San Serra / Son Serra": {
+        "latitud": "39° 43' N",
+        "longitud": "3° 13' E"
+    },
+
+    "San Telmo / Sant Telm": {
+        "latitud": "39° 35' N",
+        "longitud": "2° 21' E"
+    },
+
+    "Sant Antoni Abat": {
+        "latitud": "38° 59' N",
+        "longitud": "1° 19' E"
+    },
+
+    "Sant Carles": {
+        "latitud": "39° 3' N",
+        "longitud": "1° 34' E"
+    },
+
+    "Sant Feliu de Guixols": {
+        "latitud": "41° 45' N",
+        "longitud": "3° 1' E"
+    },
+
+    "Sant Ferran": {
+        "latitud": "38° 42' N",
+        "longitud": "1° 28' E"
+    },
+
+    "Sant Francesc de Formentera": {
+        "latitud": "38° 42' N",
+        "longitud": "1° 26' E"
+    },
+
+    "Sant Jaume": {
+        "latitud": "39° 54' N",
+        "longitud": "4° 4' E"
+    },
+
+    "Sant Joan Baptista": {
+        "latitud": "39° 5' N",
+        "longitud": "1° 31' E"
+    },
+
+    "Sant Jordi Mallorca": {
+        "latitud": "39° 33' N",
+        "longitud": "2° 46' E"
+    },
+
+    "Sant Liorenc des Cardassar": {
+        "latitud": "39° 37' N",
+        "longitud": "3° 17' E"
+    },
+
+    "Sant Mateu": {
+        "latitud": "39° 3' N",
+        "longitud": "1° 23' E"
+    },
+
+    "Sant Telm": {
+        "latitud": "39° 35' N",
+        "longitud": "2° 21' E"
+    },
+
+    "Santa Agnès": {
+        "latitud": "39° 3' N",
+        "longitud": "1° 21' E"
+    },
+
+    "Santa Coloma de Gramenet": {
+        "latitud": "41° 27' N",
+        "longitud": "2° 13' E"
+    },
+
+    "Santa Gertrudis": {
+        "latitud": "39° 0' N",
+        "longitud": "1° 26' E"
+    },
+
+    "Santa Margarita": {
+        "latitud": "39° 42' N",
+        "longitud": "3° 6' E"
+    },
+
+    "Santander": {
+        "latitud": "43° 27' N",
+        "longitud": "3° 51' W"
+    },
+    "Santanyi": { "latitud": "39° 20' N", "longitud": "3° 5' E" },
+
+    "Santiago de Compostela": {
+        "latitud": "42° 52' N",
+        "longitud": "8° 37' W"
+    },
+    "Santoña": { "latitud": "43° 29' N", "longitud": "3° 27' W" },
+
+    "Zaragoza / Zaragoza": {
+        "latitud": "41° 39' N",
+        "longitud": "0° 53' W"
+    },
+    "S' Arenal": { "latitud": "39° 30' N", "longitud": "2° 45' E" },
+    "Segovia": { "latitud": "40° 57' N", "longitud": "4° 10' W" },
+    "Segre": { "latitud": "41° 40' N", "longitud": "0° 43' E" },
+    "Segura": { "latitud": "38° 3' N", "longitud": "0° 44' W" },
+
+    "Ses Salines": {
+        "latitud": "39° 21' N",
+        "longitud": "3° 3' E"
+    },
+
+    "S' Espalmador": {
+        "latitud": "38° 47' N",
+        "longitud": "1° 26' E"
+    },
+
+    "S' Espardell": {
+        "latitud": "38° 48' N",
+        "longitud": "1° 29' E"
+    },
+
+    "S' Estanyol": {
+        "latitud": "39° 22' N",
+        "longitud": "2° 54' E"
+    },
+    "Sevilla": { "latitud": "37° 23' N", "longitud": "5° 58' W" },
+
+    "Sevilla / Sevilla": {
+        "latitud": "37° 23' N",
+        "longitud": "5° 58' W"
+    },
+    "Sil": { "latitud": "42° 27' N", "longitud": "7° 43' W" },
+    "Sineu": { "latitud": "39° 38' N", "longitud": "3° 1' E" },
+    "Sitges": { "latitud": "41° 17' N", "longitud": "1° 47' E" },
+
+    "Somosierra, Puerto de,": {
+        "latitud": "41° 4' N",
+        "longitud": "3° 35' W"
+    },
+
+    "Somport, Puetro de": {
+        "latitud": "42° 48' N",
+        "longitud": "0° 31' W"
+    },
+    "Sorai": { "latitud": "41° 43' N", "longitud": "2° 32' W" },
+    "Tafalla": { "latitud": "42° 30' N", "longitud": "1° 41' W" },
+    "Tagomago": { "latitud": "39° 2' N", "longitud": "1° 39' E" },
+
+    "Talavera de la Reina": {
+        "latitud": "39° 55' N",
+        "longitud": "4° 46' W"
+    },
+
+    "Tamarinda": {
+        "latitud": "39° 55' N",
+        "longitud": "3° 49' E"
+    },
+    "Tarragona": { "latitud": "41° 5' N", "longitud": "1° 17' E" },
+    "ter": { "latitud": "42° 2' N", "longitud": "3° 12' E" },
+    "Teruel": { "latitud": "40° 22' N", "longitud": "1° 8' W" },
+    "Tiétar": { "latitud": "39° 50' N", "longitud": "6° 1' W" },
+    "Tormes": { "latitud": "41° 18' N", "longitud": "6° 29' W" },
+    "Toro": { "latitud": "39° 59' N", "longitud": "4° 8' E" },
+
+    "Torrejón de Ardoz": {
+        "latitud": "40° 27' N",
+        "longitud": "3° 29' W"
+    },
+
+    "Torrelavega": {
+        "latitud": "36° 38' N",
+        "longitud": "4° 30' W"
+    },
+
+    "Torremolinos": {
+        "latitud": "36° 38' N",
+        "longitud": "4° 30' W"
+    },
+    "torrente": { "latitud": "39° 27' N", "longitud": "0° 28' W" },
+    "Tortosa": { "latitud": "40° 49' N", "longitud": "0° 31' E" },
+
+    "Tourinan C.": {
+        "latitud": "43° 3' N",
+        "longitud": "9° 18' W"
+    },
+
+    "Trafalgar C.": {
+        "latitud": "36° 10' N",
+        "longitud": "6° 2' W"
+    },
+    "Tremp": { "latitud": "42° 10' N", "longitud": "0° 52' E" },
+    "Tudela": { "latitud": "42° 4' N", "longitud": "1° 36' W" },
+    "Tui": { "latitud": "42° 3' N", "longitud": "8° 39' W" },
+    "Turia": { "latitud": "39° 27' N", "longitud": "0° 19' E" },
+    "Tuy / Tui": { "latitud": "42° 3' N", "longitud": "8° 39' W" },
+    "Ubeda": { "latitud": "38° 3' N", "longitud": "3° 23' W" },
+    "Uttrera": { "latitud": "37° 12' N", "longitud": "5° 48' W" },
+
+    "Valdepeñas": {
+        "latitud": "38° 43' N",
+        "longitud": "3° 25' W"
+    },
+    "Valencia": { "latitud": "39° 20' N", "longitud": "0° 40' W" },
+
+    "Valnecia G. de": {
+        "latitud": "39° 30' N",
+        "longitud": "0° 20' E"
+    },
+
+    "Valencia de Alcántara": {
+        "latitud": "39° 25' N",
+        "longitud": "7° 14' W"
+    },
+
+    "Valladolid": {
+        "latitud": "41° 38' N",
+        "longitud": "4° 43' W"
+    },
+
+    "Valldemossa": {
+        "latitud": "39° 43' N",
+        "longitud": "2° 37' E"
+    },
+    "Valls": { "latitud": "41° 18' N", "longitud": "1° 15' E" },
+
+    "Valverde del Camino": {
+        "latitud": "37° 35' N",
+        "longitud": "6° 47' W"
+    },
+
+    "Vejer de la Frontera": {
+        "latitud": "36° 15' N",
+        "longitud": "5° 59' W"
+    },
+
+    "Vélez-Málaga": {
+        "latitud": "36° 48' N",
+        "longitud": "4° 5' W"
+    },
+    "Vera": { "latitud": "37° 15' N", "longitud": "1° 51' W" },
+    "Verin": { "latitud": "41° 57' N", "longitud": "7° 27' W" },
+    "Vic.": { "latitud": "41° 58' N", "longitud": "2° 19' E" },
+
+    "Vich / Vic": {
+        "latitud": "41° 58' N",
+        "longitud": "2° 19' E"
+    },
+    "Vigo": { "latitud": "42° 12' N", "longitud": "8° 41' W" },
+
+    "Vila-real de los Infantes": {
+        "latitud": "39° 55' N",
+        "longitud": "0° 3' W"
+    },
+
+    "Vilagarcía de Arousa": {
+        "latitud": "42° 34' N",
+        "longitud": "8° 46' W"
+    },
+
+    "Vilanova i la Geltrú": {
+        "latitud": "41° 13' N",
+        "longitud": "1° 40' E"
+    },
+
+    "Villacarlos": {
+        "latitud": "39° 53' N",
+        "longitud": "4° 17' E"
+    },
+
+    "Villacarrillo": {
+        "latitud": "38° 7' N",
+        "longitud": "3° 3' W"
+    },
+
+    "Villafranca de los Caballeros": {
+        "latitud": "39° 34' N",
+        "longitud": "3° 25' E"
+    },
+
+    "Villajoyosa": {
+        "latitud": "38° 30' N",
+        "longitud": "0° 12' W"
+    },
+    "Villalba": { "latitud": "43° 26' N", "longitud": "7° 40' W" },
+
+    "Villanueva de la Serena": {
+        "latitud": "38° 59' N",
+        "longitud": "5° 50' W"
+    },
+
+    "Villarreal / Vila-real de los Infantes": {
+        "latitud": "39° 55' N",
+        "longitud": "0° 3' W"
+    },
+
+    "Villarrobledo": {
+        "latitud": "39° 18' N",
+        "longitud": "2° 36' W"
+    },
+
+    "Villaviciosa": {
+        "latitud": "43° 32' N",
+        "longitud": "5° 27' W"
+    },
+    "Villena": { "latitud": "38° 39' N", "longitud": "0° 52' W" },
+    "vinaros": { "latitud": "40° 30' N", "longitud": "0° 27' E" },
+
+    "Vitigudino": {
+        "latitud": "41° 1' N",
+        "longitud": "6° 26' W"
+    },
+    "Viveiro": { "latitud": "43° 39' N", "longitud": "7° 38' W" },
+    "Xuquer": { "latitud": "39° 5' N", "longitud": "0° 10' W" },
+    "Yecla": { "latitud": "38° 35' N", "longitud": "1° 5' W" },
+    "Zafra": { "latitud": "38° 26' N", "longitud": "6° 30' W" },
+    "zamora": { "latitud": "41° 30' N", "longitud": "5° 45' W" },
+    "Zaragoza": { "latitud": "41° 39' N", "longitud": "0° 53' W" }
+}
